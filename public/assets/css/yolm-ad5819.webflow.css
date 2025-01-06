@@ -2026,7 +2026,7 @@
   }
 
   .name-company-2 {
-    font-size: 1.3svw;
+    font-size: 1.8svw;
   }
 
   .div-block-134 {
@@ -2035,7 +2035,7 @@
   }
 
   .contact-address-2 {
-    font-size: 1.3svw;
+    font-size: 1.8svw;
     line-height: 2svw;
   }
 
@@ -2082,7 +2082,7 @@
   }
 
   .email-address-2 {
-    font-size: 1.3svw;
+    font-size: 1.8svw;
     line-height: 2svw;
   }
 
@@ -2532,12 +2532,12 @@
 
   .name-company-2 {
     margin-bottom: 0;
-    font-size: 2svw;
+    font-size: 2.6svw;
     line-height: 4svw;
   }
 
   .contact-address-2 {
-    font-size: 2svw;
+    font-size: 2.6svw;
     line-height: 5svw;
   }
 
@@ -2565,7 +2565,7 @@
   }
 
   .email-address-2 {
-    font-size: 2svw;
+    font-size: 2.6svw;
     line-height: 5svw;
   }
 
@@ -2816,8 +2816,8 @@
   }
 
   .footer-bottom {
-    grid-column-gap: 2.8svw;
-    grid-row-gap: 2.8svw;
+    grid-column-gap: 2.25svw;
+    grid-row-gap: 2.25svw;
     flex-flow: column;
   }
 
