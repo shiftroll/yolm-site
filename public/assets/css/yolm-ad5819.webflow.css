@@ -396,6 +396,18 @@
   position: relative;
 }
 
+.heading-fourth-pane {
+  z-index: 5;
+  grid-column-gap: 0svw;
+  grid-row-gap: 0svw;
+  flex-flow: column;
+  justify-content: left;
+  align-items: left;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
 .fir-image {
   z-index: 5;
   grid-column-gap: 0svw;
@@ -407,6 +419,18 @@
   height: auto;
   display: flex;
   position: relative;
+}
+
+@media screen and (max-width: 991px) {
+  .fir-image {
+    width: 4svw;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .fir-image {
+    width: 8svw;
+  }
 }
 
 .yolm-logo-footer {
