@@ -492,7 +492,7 @@
 .about-pane {
   z-index: 5;
   grid-column-gap: 1.5svw;
-  grid-row-gap: 1.5svw;
+  grid-row-gap: 1svw;
   flex-flow: column;
   justify-content: center;
   align-items: flex-start;
@@ -3001,7 +3001,7 @@
 
   .about-pane {
     grid-column-gap: 4svw;
-    grid-row-gap: 4svw;
+    grid-row-gap: 1svw;
     width: 80svw;
   }
 
