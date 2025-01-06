@@ -551,7 +551,7 @@
   width: 100%;
   max-width: none;
   height: auto;
-  padding: 2svw 7svw;
+  padding: 4svw 7svw;
   display: flex;
   position: relative;
 }
@@ -1866,7 +1866,7 @@
 
   .footer-simple {
     height: auto;
-    padding: 2svw 7svh 3svw;
+    padding: 4svw 7svh 3svw;
   }
 
   .more-info {
@@ -2393,7 +2393,7 @@
   .footer-simple {
     justify-content: flex-start;
     height: auto;
-    padding: 3svw 10svw;
+    padding: 5svw 10svw;
   }
 
   .more-info {
@@ -3044,7 +3044,7 @@
     background-color: #fdfdfd;
     flex-flow: column-reverse;
     height: auto;
-    padding: 2svw 12svw 6svw;
+    padding: 5svw 12svw 6svw;
     display: flex;
   }
 
