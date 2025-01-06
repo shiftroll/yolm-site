@@ -2027,6 +2027,8 @@
 
   .name-company-2 {
     font-size: 1.8svw;
+    line-height: 2svw;
+    text-wrap: nowrap;
   }
 
   .div-block-134 {
@@ -2037,6 +2039,7 @@
   .contact-address-2 {
     font-size: 1.8svw;
     line-height: 2svw;
+    text-wrap: nowrap;
   }
 
   .dropdown-link-scrolled-2 {
@@ -2084,6 +2087,7 @@
   .email-address-2 {
     font-size: 1.8svw;
     line-height: 2svw;
+    text-wrap: nowrap;
   }
 
   .about-paragraph-2 {
@@ -2534,11 +2538,13 @@
     margin-bottom: 0;
     font-size: 2.6svw;
     line-height: 4svw;
+    text-wrap: nowrap;
   }
 
   .contact-address-2 {
     font-size: 2.6svw;
     line-height: 5svw;
+    text-wrap: nowrap;
   }
 
   .dropdown-link-scrolled-2 {
@@ -2567,6 +2573,7 @@
   .email-address-2 {
     font-size: 2.6svw;
     line-height: 5svw;
+    text-wrap: nowrap;
   }
 
   .about-paragraph-2 {
