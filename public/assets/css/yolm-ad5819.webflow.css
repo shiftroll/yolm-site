@@ -2816,8 +2816,8 @@
   }
 
   .footer-bottom {
-    grid-column-gap: 2.25svw;
-    grid-row-gap: 2.25svw;
+    grid-column-gap: 2.4svw;
+    grid-row-gap: 2.4svw;
     flex-flow: column;
   }
 
