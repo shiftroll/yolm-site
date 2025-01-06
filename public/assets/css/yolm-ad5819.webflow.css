@@ -396,6 +396,19 @@
   position: relative;
 }
 
+.fir-image {
+  z-index: 5;
+  grid-column-gap: 0svw;
+  grid-row-gap: 0svw;
+  flex-flow: column;
+  justify-content: left;
+  align-items: left;
+  width: 2svw;
+  height: auto;
+  display: flex;
+  position: relative;
+}
+
 .yolm-logo-footer {
   aspect-ratio: auto;
   object-fit: fill;
