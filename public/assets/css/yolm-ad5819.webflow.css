@@ -1727,8 +1727,8 @@
   }
 
   .footer-bottom {
-    grid-column-gap: 1.8svw;
-    grid-row-gap: 1.8svw;
+    grid-column-gap: 2svw;
+    grid-row-gap: 2svw;
   }
 
   .menu {
@@ -2271,8 +2271,8 @@
   }
 
   .footer-bottom {
-    grid-column-gap: 4svw;
-    grid-row-gap: 4svw;
+    grid-column-gap: 5svw;
+    grid-row-gap: 5svw;
     display: flex;
   }
 
@@ -2816,8 +2816,8 @@
   }
 
   .footer-bottom {
-    grid-column-gap: 1.5svw;
-    grid-row-gap: 1.5svw;
+    grid-column-gap: 2svw;
+    grid-row-gap: 2svw;
     flex-flow: column;
   }
 
