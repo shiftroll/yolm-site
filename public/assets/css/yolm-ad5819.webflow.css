@@ -1756,7 +1756,7 @@
 
   .family-photo {
     aspect-ratio: auto;
-    margin-top: 2svw;
+    margin-top: 1.5svw;
     width: 40svw;
     min-width: auto;
     height: auto;
@@ -2315,7 +2315,7 @@
     aspect-ratio: auto;
     width: 65svw;
     height: auto;
-    margin-top: 2svw;
+    margin-top: 1.5svw;
   }
 
   .background {
