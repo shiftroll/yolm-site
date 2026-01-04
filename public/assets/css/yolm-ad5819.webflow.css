@@ -210,6 +210,25 @@
   overflow: visible;
 }
 
+.family-photo {
+  z-index: 2;
+  aspect-ratio: auto;
+  object-fit: fill;
+  flex-direction: column;
+  flex: 0 auto;
+  justify-content: center;
+  align-self: stretch;
+  width: 30svw;
+  min-width: auto;
+  height: auto;
+  min-height: auto;
+  max-height: 100%;
+  display: block;
+  position: relative;
+  inset: 0%;
+  overflow: visible;
+}
+
 .background {
   grid-column-gap: 3svw;
   grid-row-gap: 3svw;
@@ -1187,6 +1206,10 @@
     height: auto;
   }
 
+  .family-photo {
+    height: auto;
+  }
+
   .background {
     padding-left: 8svw;
   }
@@ -1710,6 +1733,13 @@
     min-height: auto;
   }
 
+  .family-photo {
+    aspect-ratio: auto;
+    width: 40svw;
+    min-width: auto;
+    height: auto;
+    min-height: auto;
+  }
   .background {
     padding-top: 5svw;
   }
@@ -2250,6 +2280,12 @@
   .company-logo {
     aspect-ratio: auto;
     width: 25svw;
+    height: auto;
+  }
+
+  .family-photo {
+    aspect-ratio: auto;
+    width: 65svw;
     height: auto;
   }
 
@@ -2795,6 +2831,19 @@
     z-index: 2;
     aspect-ratio: auto;
     width: 40svw;
+    height: auto;
+    margin-top: .5svw;
+    margin-left: 0;
+    margin-right: 0;
+    display: block;
+    position: relative;
+    overflow: clip;
+  }
+
+  .family-photo{
+    z-index: 2;
+    aspect-ratio: auto;
+    width: 88svw;
     height: auto;
     margin-top: .5svw;
     margin-left: 0;
