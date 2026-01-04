@@ -233,6 +233,7 @@
   width: 30svw;
   min-width: auto;
   height: auto;
+  margin-top: 1.5svw;
   min-height: auto;
   max-height: 100%;
   display: block;
@@ -1219,6 +1220,7 @@
   }
 
   .family-photo {
+    max-width: 30svw;
     height: auto;
   }
 
@@ -1754,6 +1756,7 @@
 
   .family-photo {
     aspect-ratio: auto;
+    margin-top: 2svw;
     width: 40svw;
     min-width: auto;
     height: auto;
@@ -2312,6 +2315,7 @@
     aspect-ratio: auto;
     width: 65svw;
     height: auto;
+    margin-top: 2svw;
   }
 
   .background {
@@ -2879,7 +2883,7 @@
     aspect-ratio: auto;
     width: 88svw;
     height: auto;
-    margin-top: .5svw;
+    margin-top: 1.5svw;
     margin-left: 0;
     margin-right: 0;
     display: block;
