@@ -15,7 +15,7 @@
   .w-layout-blockcontainer {
     max-width: 728px;
   }
-  
+
 }
 
 @media screen and (max-width: 767px) {
@@ -460,9 +460,9 @@
   }
 }
 
-  .div-block-345 {
-    max-height: 16svw;
-  }
+.div-block-345 {
+  max-height: 16svw;
+}
 
 @media screen and (max-width: 767px) {
   .fir-image {
@@ -470,9 +470,9 @@
   }
 }
 
-  .div-block-345 {
-    max-height: 16svw;
-  }
+.div-block-345 {
+  max-height: 16svw;
+}
 
 .yolm-logo-footer {
   aspect-ratio: auto;
@@ -493,8 +493,8 @@
   align-items: center;
   width: 450px;
   max-width: 85svw;
-  padding-top: 14px;
-  padding-bottom: 14px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   display: flex;
 }
 
@@ -658,7 +658,9 @@
   display: flex;
 }
 
-.hamburger-menu.scrolled, .hamburger-menu.color-change, .hamburger-menu.white {
+.hamburger-menu.scrolled,
+.hamburger-menu.color-change,
+.hamburger-menu.white {
   -webkit-text-fill-color: inherit;
   background-color: #0000;
   background-clip: border-box;
@@ -966,7 +968,8 @@
   line-height: 1.9svw;
 }
 
-.dropdown-link-scrolled-2, .dropdown-link-2 {
+.dropdown-link-scrolled-2,
+.dropdown-link-2 {
   color: #2c4046;
   letter-spacing: -.1px;
   margin-top: 0;
@@ -1190,7 +1193,7 @@
   .div-block-345 {
     max-height: 12svw;
   }
-  
+
   .name-company {
     font-size: 1.05svw;
   }
@@ -1462,7 +1465,7 @@
     width: 3svw;
   }
 
-    .div-block-345 {
+  .div-block-345 {
     max-height: 9svw;
   }
 
@@ -1710,7 +1713,8 @@
     height: 9svw;
   }
 
-  .chat-link, .chat-link:hover {
+  .chat-link,
+  .chat-link:hover {
     height: 2svw;
   }
 
@@ -1785,6 +1789,7 @@
     height: auto;
     min-height: auto;
   }
+
   .background {
     padding-top: 5svw;
   }
@@ -1955,19 +1960,23 @@
     font-size: 1.5svw;
   }
 
-  .navbar-text._4-scrolled, .navbar-text._1 {
+  .navbar-text._4-scrolled,
+  .navbar-text._1 {
     font-size: 1.7svw;
     line-height: 2svw;
   }
 
-  .hamburger-menu.scrolled, .hamburger-menu.color-change, .hamburger-menu.white {
+  .hamburger-menu.scrolled,
+  .hamburger-menu.color-change,
+  .hamburger-menu.white {
     object-fit: contain;
     width: 4svw;
     height: 2.5svw;
     overflow: visible;
   }
 
-  .navbar-link, .navbar-link:hover {
+  .navbar-link,
+  .navbar-link:hover {
     height: 2svw;
   }
 
@@ -2024,7 +2033,8 @@
     line-height: 2.7svw;
   }
 
-  .yolm-logo-link-footer, .yolm-logo-link-footer.w--current {
+  .yolm-logo-link-footer,
+  .yolm-logo-link-footer.w--current {
     height: 9svw;
   }
 
@@ -2190,7 +2200,8 @@
     font-size: 1.5svw;
   }
 
-  .navbar-text-2._4-scrolled, .navbar-text-2._1 {
+  .navbar-text-2._4-scrolled,
+  .navbar-text-2._1 {
     font-size: 1.7svw;
     line-height: 2svw;
   }
@@ -2289,13 +2300,15 @@
     width: 80svw;
   }
 
-    .container-23 {
+  .container-23 {
     grid-column-gap: 2.5svw;
     grid-row-gap: 2.5svw;
     width: 80svw;
   }
 
-  .chat-link, .chat-link:hover, .chat-link.w--current {
+  .chat-link,
+  .chat-link:hover,
+  .chat-link.w--current {
     height: 2.5svw;
   }
 
@@ -2512,13 +2525,17 @@
     position: relative;
   }
 
-  .hamburger-menu.scrolled, .hamburger-menu.color-change, .hamburger-menu.white {
+  .hamburger-menu.scrolled,
+  .hamburger-menu.color-change,
+  .hamburger-menu.white {
     width: 5svw;
     height: 4svw;
     overflow: visible;
   }
 
-  .navbar-link, .navbar-link:hover, .navbar-link.w--current {
+  .navbar-link,
+  .navbar-link:hover,
+  .navbar-link.w--current {
     height: 2.5svw;
   }
 
@@ -2794,7 +2811,7 @@
     height: auto;
   }
 
-    .container-23 {
+  .container-23 {
     grid-column-gap: 2.5svw;
     grid-row-gap: 2.5svw;
     justify-content: flex-start;
@@ -2909,7 +2926,7 @@
     overflow: clip;
   }
 
-  .family-photo{
+  .family-photo {
     z-index: 2;
     aspect-ratio: auto;
     width: 88svw;
@@ -3595,9 +3612,7 @@
 #w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf .company-logo,
 #w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf .div-block-134 {
   width: 72px;
-  height: 200px;
+  height: fit-content;
   padding-left: 0;
   padding-right: 0;
 }
-
-
