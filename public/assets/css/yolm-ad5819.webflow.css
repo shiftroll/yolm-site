@@ -11,6 +11,10 @@
   display: block;
 }
 
+div-block-345 {
+  max-height: 3rem;
+}
+
 @media screen and (max-width: 991px) {
   .w-layout-blockcontainer {
     max-width: 728px;
