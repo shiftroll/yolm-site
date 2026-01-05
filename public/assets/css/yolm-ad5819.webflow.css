@@ -11,14 +11,11 @@
   display: block;
 }
 
-div-block-345 {
-  max-height: 3rem;
-}
-
 @media screen and (max-width: 991px) {
   .w-layout-blockcontainer {
     max-width: 728px;
   }
+  
 }
 
 @media screen and (max-width: 767px) {
@@ -463,11 +460,19 @@ div-block-345 {
   }
 }
 
+  .div-block-345 {
+    max-height: 20svw;
+  }
+
 @media screen and (max-width: 767px) {
   .fir-image {
     width: 8svw;
   }
 }
+
+  .div-block-345 {
+    max-height: 20svw;
+  }
 
 .yolm-logo-footer {
   aspect-ratio: auto;
@@ -1180,6 +1185,10 @@ div-block-345 {
     width: 3.5svw;
   }
 
+  .div-block-345 {
+    max-height: 14svw;
+  }
+  
   .name-company {
     font-size: 1.05svw;
   }
@@ -1451,6 +1460,10 @@ div-block-345 {
     width: 3svw;
   }
 
+    .div-block-345 {
+    max-height: 12svw;
+  }
+
   .heading-third-pane-right {
     grid-column-gap: 1svw;
     grid-row-gap: 1svw;
@@ -1657,6 +1670,10 @@ div-block-345 {
 @media screen and (max-width: 991px) {
   .woww-hand-top {
     width: 6svw;
+  }
+
+  .div-block-345 {
+    max-height: 16svw;
   }
 
   .heading-third-pane-right {
@@ -2245,6 +2262,10 @@ div-block-345 {
     width: 6svw;
   }
 
+  .div-block-345 {
+    max-height: 18svw;
+  }
+
   .heading-third-pane-right {
     grid-column-gap: 0svw;
     grid-row-gap: 0svw;
@@ -2742,6 +2763,10 @@ div-block-345 {
 @media screen and (max-width: 479px) {
   .woww-hand-top {
     width: 10svw;
+  }
+
+  .div-block-345 {
+    max-height: 20svw;
   }
 
   .heading-third-pane-right {
