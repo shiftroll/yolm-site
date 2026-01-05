@@ -2454,7 +2454,7 @@
   .yolm-logo-footer {
     aspect-ratio: auto;
     flex: 1;
-    width: auto;
+    width: 14svw;
     height: auto;
     margin-left: 0;
     position: relative;
@@ -2785,7 +2785,7 @@
   }
 
   .div-block-345 {
-    max-height: 16svw;
+    max-height: fit-content;
   }
 
   .heading-third-pane-right {
@@ -3107,7 +3107,7 @@
   .frame-footer-logo {
     grid-column-gap: 10svw;
     grid-row-gap: 10svw;
-    max-width: 85svw;
+    max-width: 20svw;
     height: auto;
   }
 
@@ -3603,15 +3603,15 @@
 
 #w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf {
   grid-area: span 1 / span 1 / span 1 / span 1;
-  height: 72px;
-  width: 72px;
+  height: 100%;
+  width: auto;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
 #w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf .company-logo,
 #w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf .div-block-134 {
-  width: 72px;
+  width: auto;
   height: fit-content;
   padding-left: 0;
   padding-right: 0;
