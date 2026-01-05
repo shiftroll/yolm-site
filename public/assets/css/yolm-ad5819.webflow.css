@@ -231,7 +231,7 @@
   flex: 0 auto;
   justify-content: center;
   align-self: stretch;
-  width: 30svw;
+  width: 20svw;
   min-width: auto;
   height: auto;
   margin-top: 1.5svw;
@@ -478,8 +478,8 @@
   aspect-ratio: auto;
   object-fit: fill;
   flex: 0 auto;
-  width: auto;
-  height: auto;
+  width: 72px;
+  height: 72px;
   display: block;
   position: relative;
   inset: 0%;
@@ -491,8 +491,10 @@
   grid-row-gap: 1svw;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 450px;
   max-width: 85svw;
+  padding-top: 14px;
+  padding-bottom: 14px;
   display: flex;
 }
 
@@ -3584,6 +3586,18 @@
 
 #w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf {
   grid-area: span 1 / span 1 / span 1 / span 1;
+  height: 72px;
+  width: 72px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf .company-logo,
+#w-node-_46f886d2-9563-9eb1-8284-2e401ba63f76-951e2faf .div-block-134 {
+  width: 72px;
+  height: 200px;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 
