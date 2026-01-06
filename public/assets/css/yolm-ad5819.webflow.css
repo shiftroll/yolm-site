@@ -212,7 +212,7 @@
   flex: 0 auto;
   justify-content: center;
   align-self: stretch;
-  width: 10svw;
+  width: 6svw;
   min-width: auto;
   height: auto;
   min-height: auto;
@@ -478,8 +478,8 @@
   aspect-ratio: auto;
   object-fit: fill;
   flex: 0 auto;
-  width: 72px;
-  height: 72px;
+  width: 9svw;
+  height: 9svw;
   display: block;
   position: relative;
   inset: 0%;
