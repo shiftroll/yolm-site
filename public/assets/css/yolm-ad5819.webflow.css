@@ -493,8 +493,8 @@
   align-items: center;
   width: 450px;
   max-width: 85svw;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 1svw;
+  padding-bottom: 1svw;
   display: flex;
 }
 
@@ -586,7 +586,7 @@
 
 .footer-simple {
   grid-column-gap: 1.5svw;
-  grid-row-gap: 1.5svw;
+  grid-row-gap: 0;
   background-color: #fff;
   flex-direction: column;
   justify-content: center;
@@ -3187,7 +3187,7 @@
     background-color: #ffffff;
     flex-flow: column-reverse;
     height: auto;
-    padding: 10svw 16svw 6svw;
+    padding: 2svw 16svw 6svw;
     display: flex;
   }
 
