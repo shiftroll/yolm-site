@@ -1301,7 +1301,8 @@
 
   .yolm-logo-footer {
     aspect-ratio: auto;
-    height: auto;
+    height: 6svw;
+    width: 6svw;
   }
 
   .frame-footer-logo {
